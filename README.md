@@ -24,27 +24,16 @@ The columns in the dataset are as follows:
 
 8.adjClose: The adjusted closing price of tesla's stock, considering factors such as dividends and stock splits.
 
-9.adjHigh: The adjusted highest value reached by tesla's stock on the given day.
-
-10.adjLow: The adjusted lowest value reached by tesla's stock on the given day.
-
-11.adjOpen: The adjusted opening value of tesla's stock on the given day.
-
-12.adjVolume: The adjusted trading volume of tesla's stock on the given day, accounting for factors such as stock splits.
-
-13.divCash: The amount of cash dividend paid out to shareholders on the given day.
-
-14.splitFactor: The split factor, if any, applied to tesla's stock on the given day. A split factor of 1 indicates no split.
-
 STEPS INVOLVED :
-1 . IMPORTING LIBRARIES AND DATA TO BE USED
 
-GATHERING INSIGHTS
+1.IMPORTING LIBRARIES AND DATA TO BE USED
 
-DATA PRE-PROCESSING
+2.GATHERING INSIGHTS
 
-CREATING LSTM MODEL
+3.DATA PRE-PROCESSING
 
-VISUALIZING ACTUAL VS PREDICTED DATA
+4.CREATING LSTM MODEL
 
-PREDICTING UPCOMING 15 DAYS
+5.VISUALIZING ACTUAL VS PREDICTED DATA
+
+6.PREDICTING UPCOMING 15 DAYS
