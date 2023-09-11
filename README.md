@@ -4,7 +4,7 @@ STOCK PREDICTION
 PURPOSE : TO PREDICT THE STOCK PRICE OF A COMPANY USING LSTM.
 ABOUT DATASET
 Tesla Stock Prediction
-This dataset contains historical data of tesla's stock prices and related attributes. It consists of 14 columns and a smaller subset of 1257 rows. Each column represents a specific attribute, and each row contains the corresponding values for that attribute.
+This dataset contains historical data of tesla's stock prices and related attributes. It consists of 7 columns and a smaller subset of 2417 rows. Each column represents a specific attribute, and each row contains the corresponding values for that attribute.
 
 The columns in the dataset are as follows:
 
